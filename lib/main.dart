@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Asistente de calculos porcentuales'),
+      home: MyHomePage(title: 'Eazypercent'),
     );
   }
 }

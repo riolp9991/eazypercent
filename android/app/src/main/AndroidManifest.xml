@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.eazypercent">
    <application
-        android:label="eazypercent"
+        android:label="Eazypercent"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
